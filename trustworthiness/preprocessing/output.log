@@ -1,0 +1,17 @@
+/Users/diegoesteves/anaconda3/envs/defacto/bin/python /Users/diegoesteves/Github/factchecking/DeFacto/python/trustworthiness/preprocessing/preprocessing.py
+2018-08-16 15:11:46,126 [MainThread  ] [INFO ]  reading dataset: microsoft
+2018-08-16 15:11:46,157 [MainThread  ] [INFO ]  creating job args...
+2018-08-16 15:11:46,294 [MainThread  ] [INFO ]  reading dataset: c3
+dataset:  microsoft
+tot domains:  1000
+tot set domains:  562
+2018-08-16 15:11:46,316 [MainThread  ] [INFO ]  creating job args...
+dataset:  c3
+tot domains:  5691
+tot set domains:  1375
+----
+tot set final domains:  1830
+2018-08-16 15:11:46,830 [MainThread  ] [INFO ]  job args created, starting multi thread proc: 0
+2018-08-16 15:11:47,902 [MainThread  ] [INFO ]  done!
+
+Process finished with exit code 0
