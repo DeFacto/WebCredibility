@@ -4,6 +4,17 @@ This project provides the data and models described in the paper:
 
 "**Belliting the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web, Esteves et. al. 2018**"
 
+```
+@inproceedings{fever2018_fake_news,
+  author = {Esteves, Diego and Reddy, Aniketh Janardhan and Chawla, Piyush and Lehmann, Jens},
+  booktitle = {Proceedings of the First Workshop on Fact Extraction and VERification (FEVER) - EMNLP 2018},
+  pages = {50--59},
+  title = {Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web},
+  url = {http://jens-lehmann.org/files/2018/fever_fake_news.pdf},
+  year = 2018
+}
+```
+
 Module: trustworthiness
 
 #### 0. Configurations
